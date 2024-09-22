@@ -14,7 +14,7 @@ Fluent Form Tracker is a JavaScript solution designed to work seamlessly with Go
 
 1. **Add Script to Google Tag Manager:**
    - In GTM, create a new Custom HTML tag.
-   - Copy and paste the script from [fluent-form-tracker.js](https://github.com/your-repo/fluent-form-tracker.js) into the Custom HTML tag.
+   - Copy and paste the script from [fluent-form-tracker.js](./fluent-form-tracker.js) into the Custom HTML tag.
    - Set the trigger to fire on pages containing Fluent Forms.
    
 2. **Customize for Your Use Case:**
